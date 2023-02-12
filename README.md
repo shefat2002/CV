@@ -1,3 +1,1 @@
-# HTML Resume
-
-My Online HTML Resume Made With Material Design.
+This is a simple CV for my software project assignment
